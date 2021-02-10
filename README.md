@@ -3,7 +3,7 @@ aExpo
 
 Experimenting with [Expo][expo] for [ReactNative][rn] and its [libraries][libs].
 
-
+Seems like [Expo][expo] is brining ease to enter mobile development.
 
 
 
